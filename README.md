@@ -8,6 +8,7 @@ Pretty Correct helps agents apply established standards and style conventions co
 
 | Skill | Purpose |
 | --- | --- |
+| [apply-code-formatting](skills/apply-code-formatting/SKILL.md) | Run existing ESLint and Prettier settings; analyze missing or empty configurations, or review them on request, while preserving user overrides. |
 | [writing-documentation-references](skills/writing-documentation-references/SKILL.md) | Format and check citations and reference lists. Defaults to APA, with separate guides for APA, MLA, Chicago, and IEEE. |
 
 ## Using the collection
